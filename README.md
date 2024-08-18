@@ -1,12 +1,12 @@
-<h2 align="left">About Me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">- Software Developer<br>- Studying Systems Analysis and Development</p>
+<p align="left">- Desenvolvedor de Software<br>- Estudando Análise e Desenvolvimento de Sistemas</p>
 
 ###
 
-<h2 align="left">Techs</h2>
+<h2 align="left">Tecnologias</h2>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h1 align="left">Stats</h1>
+<h1 align="left">Estatísticas</h1>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
+<h2 align="left">Redes Sociais</h2>
 
 ###
 
