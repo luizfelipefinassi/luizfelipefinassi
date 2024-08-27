@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🔭 Desenvolvedor de Software<br>- 🌱 Estudando Análise e Desenvolvimento de Sistemas<br>- ⚡ Atualmente estou me aperfeiçoando em Java e procuro me tornar um desenvolvedor Backend<br>- 📫 Contato: <a href="luizfelipefinassi04@gmail.com">luizfelipefinassi04@gmail.com<a/></p>
+<p align="left">- 🔭 Desenvolvedor de Software<br>- 🌱 Estudando Análise e Desenvolvimento de Sistemas<br>- ⚡ Atualmente estou me aperfeiçoando em Java e procuro me tornar um Desenvolvedor Backend<br>- 📫 Contato: <a href="luizfelipefinassi04@gmail.com">luizfelipefinassi04@gmail.com<a/></p>
 
 ###
 
