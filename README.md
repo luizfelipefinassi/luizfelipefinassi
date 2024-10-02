@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🌱 Estudando Análise e Desenvolvimento de Sistemas<br>- ⚡ Atualmente estou me aperfeiçoando na linguagem Java, focado no objetivo de me tornar um desenvolvedor<br>- 📫 Contato: <a href="luizfelipefinassi04@gmail.com">luizfelipefinassi04@gmail.com<a/></p>
+<p align="left">- 🌱 Estudante da faculdade Unisociesc, onde me aprofundo em Análise e Desenvolvimento de Sistemas<br>- ⚡ Atualmente estou me aperfeiçoando na linguagem Java, focado no objetivo de me tornar um desenvolvedor<br>- 📫 Contato: <a href="luizfelipefinassi04@gmail.com">luizfelipefinassi04@gmail.com<a/></p>
 
 ###
 
